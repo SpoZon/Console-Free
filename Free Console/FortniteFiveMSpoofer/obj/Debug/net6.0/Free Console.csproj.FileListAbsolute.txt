@@ -1,0 +1,17 @@
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\bin\Debug\net6.0\Free Console.exe
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\bin\Debug\net6.0\Free Console.deps.json
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\bin\Debug\net6.0\Free Console.runtimeconfig.json
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\bin\Debug\net6.0\Free Console.dll
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\bin\Debug\net6.0\Free Console.pdb
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\bin\Debug\net6.0\Colorful.Console.dll
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\Free Console.csproj.AssemblyReference.cache
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\Free Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\Free Console.AssemblyInfoInputs.cache
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\Free Console.AssemblyInfo.cs
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\Free Console.csproj.CoreCompileInputs.cache
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\Free Console.csproj.CopyComplete
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\Free Console.dll
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\refint\Free Console.dll
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\Free Console.pdb
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\Free Console.genruntimeconfig.cache
+C:\Users\spozo\Desktop\Fortnite & FiveM Spoofer\Free Console\FortniteFiveMSpoofer\obj\Debug\net6.0\ref\Free Console.dll
